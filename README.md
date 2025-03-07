@@ -1,5 +1,5 @@
-hi, I’m @honestlytho, aka posh.
-i'm learning.
+### Hi, I’m Posh.
+I'm learning.
 
 
 <!---
